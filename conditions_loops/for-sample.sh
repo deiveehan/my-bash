@@ -10,4 +10,4 @@ echo "Listing content fo each file"
 for SCRIPT in "$SHELLSCRIPTS"; do
   DISPLAY="$(cat $SCRIPT)"
   echo "File : $SCRIPT - Contents: $DISPLAY"
-doneh
+done`

@@ -7,3 +7,4 @@ if [ $GUESS -eq 3 ]
   then
     echo "You guessed 3 - the correct number!"
 fi
+
