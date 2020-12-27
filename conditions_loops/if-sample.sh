@@ -8,3 +8,13 @@ if [ $GUESS -eq 3 ]
     echo "You guessed 3 - the correct number!"
 fi
 
+
+STR="NO"
+echo $STR
+
+if [ ${STR} == "YES" ]
+then
+  echo "YES"
+else
+  echo "NO"
+fi

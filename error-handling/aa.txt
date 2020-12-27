@@ -1,0 +1,2 @@
+Change to a directory and list th econtents
+Cannot change directories
